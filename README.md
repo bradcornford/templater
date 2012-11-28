@@ -1,4 +1,4 @@
-templater
+Templater | In Development
 =========
 
 Templater - A PHP based OOP templating solution.
